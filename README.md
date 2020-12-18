@@ -56,3 +56,6 @@
    2.3. Creation of TF-IDF index
    
    2.4. Model word2vec
+
+
+##Link to see the file with all the Tweets that we have used: https://drive.google.com/file/d/13nocqSVpTKn8YTKWJYQDBDcyoQw-Gai6/view?usp=sharing
